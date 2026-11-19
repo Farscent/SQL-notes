@@ -1,4 +1,4 @@
-# SQL Cheat Sheet
+# SQL Notes
 
 > A practical, GitHub-ready reference for **SQL syntax, descriptions, and examples**, including **MySQL**, **IBM Db2 (LUW)**, **SQLite**, and Python database workflows.
 >
